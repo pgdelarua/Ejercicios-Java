@@ -8,9 +8,9 @@ public class AnexoAEjercicio3 {
 			int numero = r.nextInt(1000);
 			System.out.println("Número: " + numero);
 			if (numero % 2 == 0) {
-			    System.out.println("es par!");
+			    System.out.println("Es par!");
 			} else {
-			    System.out.println("es impar!");
+			    System.out.println("Es impar!");
 			}
 	}
 	
