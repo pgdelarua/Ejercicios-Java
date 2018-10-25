@@ -34,5 +34,7 @@ public class Examen1 {
 }	
 
 
+/*System.out.println((i== n/2 || j==m/2) ?*/
+
 
 	
